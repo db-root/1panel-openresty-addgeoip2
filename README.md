@@ -1,13 +1,3 @@
----
-title: "1panel/openresty编译添加geoip2模块支持"
-subitile: "1panel/openresty编译添加geoip2模块支持"
-date: 2025-01-06T2:53:44+08:00
-draft: false
-categories: ["开源系列分享","建站相关"]
-tags: ["开源","建站","nginx","1Panel","OpenResyt"]
-slug: 1panel-openresty-addgeoip2-module
-image: "https://typora.elisky.cn/typora/img/image-20250106025848398.png"
----
 # 1panel/openresty编译添加geoip2模块支持
 
 > 声明：该文档仅供学习讨论开源知识分享，不涉及任何商业利益。
